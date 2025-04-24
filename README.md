@@ -3,6 +3,7 @@ Este projeto tem como objetivo desenvolver a estrutura básica de um sistema ban
 A aplicação foi construída utilizando o framework Spring Boot e a tecnologia JPA (Java Persistence API) para o gerenciamento de dados.
 
 * Tecnologias Utilizadas
+* 
   **Spring Boot:** Framework Java para a criação de aplicações standalone e prontas para produção.
   
   **JPA (Java Persistence API):** API Java para persistência de dados em bancos de dados relacionais.
