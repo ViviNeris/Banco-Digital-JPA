@@ -18,8 +18,6 @@ A aplicação foi construída utilizando o framework Spring Boot e a tecnologia 
 
 Atualmente, as seguintes entidades foram implementadas e testadas:
 
-Atualmente, as seguintes entidades foram implementadas e testadas:
-
 * **Cliente:** Permite o cadastro de informações básicas do cliente, como CPF, nome, data de nascimento e endereço. A estrutura para a classificação em categorias (Comum, Super e Premium) também foi definida na entidade.
 * **Conta:** Foi criada a estrutura básica para a entidade de Conta, contemplando atributos como número da conta, tipo (corrente ou poupança) e saldo.
 
