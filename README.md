@@ -4,9 +4,13 @@ A aplicação foi construída utilizando o framework Spring Boot e a tecnologia 
 
 * Tecnologias Utilizadas
   **Spring Boot:** Framework Java para a criação de aplicações standalone e prontas para produção.
+  
   **JPA (Java Persistence API):** API Java para persistência de dados em bancos de dados relacionais.
+  
   **Maven:** Ferramenta de gerenciamento de dependências e build do projeto Java.
+  
   **H2 Database:** Banco de dados relacional em memória, utilizado para o desenvolvimento e testes desta aplicação.
+  
   **Postman:** Utilizado para testar as APIs e funcionalidades implementadas.
 
 * Implementações Concluídas
